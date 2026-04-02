@@ -8,7 +8,7 @@ A data analysis project exploring the key factors that influence medical insuran
 
 ## Project Overview
 
-In this project, I performed an exploratory data analysis on a medical insurance dataset to understand what drives insurance costs. The dataset includes features such as age, BMI, number of children, smoking status, region, and charges.
+In this project, I performed an exploratory data analysis on a medical insurance dataset to understand what drives insurance costs. The dataset includes features such as age, BMI, number of children, smoking status, region and charges.
 
 The goal was simple: uncover patterns, relationships, and trends that explain why some individuals pay significantly more for insurance than others.
 
